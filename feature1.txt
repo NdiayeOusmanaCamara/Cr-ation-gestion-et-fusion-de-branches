@@ -1,1 +1,2 @@
 "Contenu de la feature 1" 
+"Modification sur feature2" 
