@@ -1,2 +1,6 @@
 "Contenu de la feature 1" 
+<<<<<<< HEAD
 "Modification sur feature1" 
+=======
+"Modification sur feature2" 
+>>>>>>> feature2
